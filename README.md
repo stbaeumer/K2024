@@ -1,8 +1,6 @@
 # Klausur 10.04.2024
 
-Sie sehen das Original-Projekt aus dem Unterricht.
-Die Verwendung der KI ist nicht erlaubt.
-Das Öffnen alter Projekte ist nicht erlaubt.
+Sie sehen das Original-Projekt aus dem Unterricht. Die Verwendung der KI ist nicht erlaubt. Das Öffnen alter Projekte ist nicht erlaubt!
 
 ## Aufgabe 1)
 
